@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLWithMenu</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="insert">INSERT</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="select">SELECT</string>
+    <string name="select_all">SELECT ALL</string>
+    <string name="create_table">CREATE TABLE</string>
+    <string name="delete_table">DELETE TABLE</string>
+
+    <string name="id">ID</string>
+    <string name="name">NAME</string>
+    <string name="point">POINT</string>
+
+</resources>
